@@ -44,8 +44,7 @@ Weather Condition Output
 
  How to Run the Project
 1. Clone the repository
--git clone https://github.com/NiharikaKulkarni/Weather-recognition.git
--cd weather-recognition-system
+-git clone https://github.com/NiharikaKulkarni/Weather-recognition.git then cd Weather-recongnition
 3. Run the Python script
 python weather_recognition.py
 
