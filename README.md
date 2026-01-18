@@ -15,9 +15,8 @@ The Weather Recognition System is a Python-based application designed to identif
 - CSV-based sample dataset
 - Basic data processing techniques
 
-
-
 System Architecture
+
 User Input
    │
    ▼
@@ -45,7 +44,7 @@ Weather Condition Output
 
  Sample Dataset Structure
 | Weather Condition | Temperature | Humidity | Wind   |
-| -- | -- | -- |  |
+| --                | --          | --       |        |
 | Sunny             | High        | Low      | Mild   |
 | Rainy             | Moderate    | High     | Strong |
 | Cloudy            | Moderate    | Medium   | Mild   |
