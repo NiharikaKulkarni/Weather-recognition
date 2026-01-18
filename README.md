@@ -43,13 +43,14 @@ Weather Condition Output
 - Dataset format: .png files 
 
  Sample Dataset Structure
+ --------------------------------------------------------
 | Weather Condition | Temperature | Humidity | Wind   |
 | --                | --          | --       |        |
 | Sunny             | High        | Low      | Mild   |
 | Rainy             | Moderate    | High     | Strong |
 | Cloudy            | Moderate    | Medium   | Mild   |
 | Foggy             | Low         | High     | Low    |
-
+-------------------------------------------------------
 
  How to Run the Project
 1. Clone the repository
