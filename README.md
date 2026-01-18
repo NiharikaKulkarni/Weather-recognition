@@ -42,16 +42,6 @@ Weather Condition Output
 - The project uses a sample image dataset for demonstration.
 - Dataset format: .png files 
 
- Sample Dataset Structure
- --------------------------------------------------------
-| Weather Condition | Temperature | Humidity | Wind   |
-| --                | --          | --       |        |
-| Sunny             | High        | Low      | Mild   |
-| Rainy             | Moderate    | High     | Strong |
-| Cloudy            | Moderate    | Medium   | Mild   |
-| Foggy             | Low         | High     | Low    |
--------------------------------------------------------
-
  How to Run the Project
 1. Clone the repository
 git clone https://github.com/your-username/weather-recognition-system.git
